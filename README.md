@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Engineering and Robotics
 - 🌱 I’m currently learning DE and ML
 - 💞️ I’m looking to collaborate on ML or DE project
-- 📫 How to reach me linkedin https://shorturl.at/fQR0r
+- 📫 How to reach me linkedin [https://shorturl.at/fQR0r](https://www.linkedin.com/in/purawat-ruangsri-7a6a81288/)
 
 
 <!---
