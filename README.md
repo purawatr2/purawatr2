@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Purawat Ruangsri
-- 👀 I’m interested in Machine Learning, Data Engineering and Robotics
-- 🌱 I’m currently learning DE and ML
-- 💞️ I’m looking to collaborate on ML or DE project
+- 👀 I’m interested in Data Engineering, Machine Learning and Robotics
+- 🌱 I’m currently learning Data Engineering
 - 📫 How to reach me : linkedin https://www.linkedin.com/in/purawat-ruangsri/
 
 <!---
